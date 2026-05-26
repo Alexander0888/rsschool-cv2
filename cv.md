@@ -3,9 +3,9 @@
 ## Contact:
 
 - Location: Sierre, the canton of Valais, Switzerland.
-- Phone: +41799049371
+- Phone: +41 79 904 93 71
 - E-mail: kursa.alexander@gmail.com
-- GitHub: https://github.com/Alexander0888
+- [GitHub](https://github.com/Alexander0888)
 - [LinkedIn](https://www.linkedin.com/in/alexander-kursa-0a1897283/)
 - Telegram: @alex70021
 
@@ -22,7 +22,7 @@ Hi, I'm Alexander Kursa. A passionate Front-end developer based in Sierre, Switz
 
 ## Code Example:
 
-```
+```javascript
 function sum(a, b) {
   return a + b;
 }
