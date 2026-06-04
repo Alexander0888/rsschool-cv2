@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -23,8 +24,8 @@
 }
 
 .link {
-  color: #333333; /* Задайте ваш основной цвет ссылок */
-  text-decoration: none; /* Убираем стандартное подчеркивание сразу */
+  color: #333333;
+  text-decoration: none;
   border-bottom: 1px solid transparent;
   transition:
     color 0.3s ease,
@@ -68,12 +69,6 @@
   width: calc(50% - 10px);
   padding: 5px;
   margin: 5px;
-  /* border-bottom: 1px solid gray; */
-}
-
-.item {
-  padding: 10px;
-  width: calc(50% - 10px);
 }
 
 .footer {
